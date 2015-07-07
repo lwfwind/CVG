@@ -1,0 +1,4 @@
+OS:XP SP3,Vista, Win7
+Platform: X86,X64
+Resolution: 800*600,1280*1024
+Language: English

@@ -1,0 +1,11 @@
+C:\Users\testlab\Desktop\Variation Generator Source code 1.1\Variation Generator Source code\CustomWindow\bin\Release\CustomWindow.dll
+C:\Users\testlab\Desktop\Variation Generator Source code 1.1\Variation Generator Source code\CustomWindow\bin\Release\CustomWindow.pdb
+C:\Users\testlab\Desktop\Variation Generator Source code 1.1\Variation Generator Source code\CustomWindow\obj\Release\ResolveAssemblyReference.cache
+C:\Users\testlab\Desktop\Variation Generator Source code 1.1\Variation Generator Source code\CustomWindow\obj\Release\WindowButton.baml
+C:\Users\testlab\Desktop\Variation Generator Source code 1.1\Variation Generator Source code\CustomWindow\obj\Release\WindowButton.g.cs
+C:\Users\testlab\Desktop\Variation Generator Source code 1.1\Variation Generator Source code\CustomWindow\obj\Release\CustomWindow_MarkupCompile.cache
+C:\Users\testlab\Desktop\Variation Generator Source code 1.1\Variation Generator Source code\CustomWindow\obj\Release\CustomWindow.g.resources
+C:\Users\testlab\Desktop\Variation Generator Source code 1.1\Variation Generator Source code\CustomWindow\obj\Release\CustomWindow.Properties.Resources.resources
+C:\Users\testlab\Desktop\Variation Generator Source code 1.1\Variation Generator Source code\CustomWindow\obj\Release\CustomWindow.csproj.GenerateResource.Cache
+C:\Users\testlab\Desktop\Variation Generator Source code 1.1\Variation Generator Source code\CustomWindow\obj\Release\CustomWindow.dll
+C:\Users\testlab\Desktop\Variation Generator Source code 1.1\Variation Generator Source code\CustomWindow\obj\Release\CustomWindow.pdb
